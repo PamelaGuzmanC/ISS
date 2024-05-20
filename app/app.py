@@ -6,9 +6,9 @@ import pydeck as pdk
 
 
 # --- App Title and Description ---
-st.title("Who's in Space Right Now?")
+st.title("Total number of people in Space")
 st.markdown("""
-This app displays the total number of people currently in space 
+This app displays the total number of people in space 
 and their names, as well as a live map showing the location of the International Space Station.
 """)
 
